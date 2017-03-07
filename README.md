@@ -1,8 +1,7 @@
-# Java-Learning
-
+# 0. Java-Learning
 This repository contains Java files that I have worked on whilst on my journey to learn Java. Feel free to take a look at some of the code.
 
-## File Directory
+## 1. File Directory
 Each of the Java files in this repository are listed below along with a description of the file. The list will be updated as I add more Java files to the repository.
 
 **ASCIIConvert.java** - Uses the ASCII codes of letters to convert them from lowercase to uppercase and vise-versa.
