@@ -1,15 +1,10 @@
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.Scanner;
 
-/**
- * Created by B00714027 on 22/03/2017.
- */
 public class ValuesOutput {
     /*****************************************************
      Filename: 		    ValuesOutput
      Created by: 		Melissa B.
-     Created on: 		01 March 2017
+     Created on: 		22 March 2017
      Comment: 		    Takes input from the keyboard THREE integer values and enquires from the user if they wish to have the three values entered output in ascending or descending order
      ******************************************************/
 
