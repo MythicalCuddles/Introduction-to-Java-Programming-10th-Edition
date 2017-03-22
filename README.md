@@ -6,7 +6,13 @@ Each of the Java files in this repository are listed below along with a descript
 
 **ASCIIConvert.java** - Uses the ASCII codes of letters to convert them from lowercase to uppercase and vise-versa.
 
+**CheckNumber.java** - Check to see if a number is ODD or EVEN.
+
 **Circle.java** - Works out the area, circumference and diameter of a circle from a given radius.
+
+**CompareValues.java** - Compares two integers and prints information about them.
+
+**LargestNumber.java** - Prints the largest number from a list of numbers inputted.
 
 **Rectangle.java** - Works out the area and perimeter of a rectangle using the length and breadth values.
 
