@@ -21,3 +21,5 @@ Each of the Java files in this repository are listed below along with a descript
 **SwapNumbers.java** - Uses a temp variable to store a variable whilst it is replaced with a new variable.
 
 **UsingVariables.java** - Learning and using char, int and double data types.
+
+**ValuesOutput.java** - Takes input from the keyboard THREE integer values and enquires from the user if they wish to have the three values entered output in ascending or descending order. Warning: This is very badly coded.
