@@ -12,7 +12,13 @@ Each of the Java files in this repository are listed below along with a descript
 
 **CompareValues.java** - Compares two integers and prints information about them.
 
+**DrawOutlineOfBox.java** - Draws a box to the console using methods and loops.
+
 **LargestNumber.java** - Prints the largest number from a list of numbers inputted.
+
+**MultiplyNumber.java** - Multiply two inputted numbers and output the total.
+
+**MultiplyNumbersBy3.java** - Multiplies an inputted number by 3 and outputs the total.
 
 **Rectangle.java** - Works out the area and perimeter of a rectangle using the length and breadth values.
 
