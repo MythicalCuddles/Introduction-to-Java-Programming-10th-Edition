@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class DoWhile {
     /*****************************************************
-     Filename: 		    CheckNumber
+     Filename: 		    DoWhile
      Created by: 		Melissa B.
-     Created on: 		22 March 2017
-     Comment: 		    Check to see if a number is ODD or EVEN
+     Created on: 		05 April 2017
+     Comment: 		    Using Logical AND - and Do-While Loop
      ******************************************************/
 
     public static void main(String[] args) {
