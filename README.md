@@ -12,7 +12,7 @@ Each of the Java files in this repository are listed below along with a descript
 
 **CompareValues.java** - Compares two integers and prints information about them.
 
-**DoWhile.java** - Uses Logical AND along with a do-while loop.
+**DoWhile.java** - Uses a Logical AND along with a do-while loop.
 
 **DrawOutlineOfBox.java** - Draws a box to the console using methods and loops.
 
