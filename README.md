@@ -1,5 +1,5 @@
 # Java-Learning
-This repository contains Java files that I have worked on whilst on my journey to learn Java. Feel free to take a look at some of the code.
+This repository contains Java files that I have worked on whilst on my journey to learn Java. Feel free to take a look at some of the code. I mainly only work on this on Wednesdays during my University Course.
 
 ## 1. File Directory
 Each of the Java files in this repository are listed below along with a description of the file. The list will be updated as I add more Java files to the repository.
