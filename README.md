@@ -31,3 +31,22 @@ Each of the Java files in this repository are listed below along with a descript
 **UsingVariables.java** - Learning and using char, int and double data types.
 
 **ValuesOutput.java** - Takes input from the keyboard THREE integer values and enquires from the user if they wish to have the three values entered output in ascending or descending order. Warning: This is very badly coded.
+
+## 2. MyProgrammingLabs
+Each of the following Java files below have come from learning Java using the Introduction to Java Programming - 10th Edition Book.
+
+**ComputeArea.java** - Computes the area using Pi.
+
+**ComputeAreaWithConsoleInput.java** - Computes the area inputted to the console and calculates the area using Pi.
+
+**ComputeAverage.java** - Calculates the average of three numbers.
+
+**ComputeExpression.java** - Examples of math expressions in Java.
+
+**ShowLogicErrors.java** - Code will run with no runtime errors, but has a logical error which can not be detected by the compiler.
+
+**ShowRuntimeErrors.java** - Code will not run due to runtime errors, which will show up in the compiler.
+
+**Welcome.java** - Prints Welcome to Java! to the console.
+
+**WelcomeWithThreeMessages.java** - Prints three lines to the console.
