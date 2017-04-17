@@ -35,17 +35,37 @@ Each of the Java files in this repository are listed below along with a descript
 ## 2. MyProgrammingLabs
 Each of the following Java files below have come from learning Java using the Introduction to Java Programming - 10th Edition Book.
 
+**AdditionQuiz.java** - Generates two numbers and asks for the answer. If the answer is correct, true is returned, otherwise false is returned.
+
 **ComputeArea.java** - Computes the area using Pi.
 
 **ComputeAreaWithConsoleInput.java** - Computes the area inputted to the console and calculates the area using Pi.
 
+**ComputeAreaWithConstant.java** - Works out the area for the circle of radius using constant Pi.
+
 **ComputeAverage.java** - Calculates the average of three numbers.
 
+**ComputeChange.java** - Calculates the number of dollars, quarters, dimes, nickels and pennies in a specified amount.
+
 **ComputeExpression.java** - Examples of math expressions in Java.
+
+**ComputeLoan.java** - Works out monthly payment and total payment of entered loan amount.
+
+**DisplayTime.java** - Converts an integer into time value. (E.g., 100 = 1 minute, 40 seconds.)
+
+**FehrenheitToCelsius.java** - Converts Fehrenheit to Celsius.
+
+**SalesTax.java** - Works out sales tax.
+
+**ScannerObject.java** - Using scanner object to take in different variables and values.
+
+**ShowCurrentTime.java** - Works out and displays the current time.
 
 **ShowLogicErrors.java** - Code will run with no runtime errors, but has a logical error which can not be detected by the compiler.
 
 **ShowRuntimeErrors.java** - Code will not run due to runtime errors, which will show up in the compiler.
+
+**SimpleIfDemo.java** - Code demo using IF statements.
 
 **Welcome.java** - Prints Welcome to Java! to the console.
 
