@@ -37,6 +37,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **AdditionQuiz.java** - Generates two numbers and asks for the answer. If the answer is correct, true is returned, otherwise false is returned.
 
+**ComputeAndInterpretBMI.java** - Works out the BMI from the entered height and weight.
+
 **ComputeArea.java** - Computes the area using Pi.
 
 **ComputeAreaWithConsoleInput.java** - Computes the area inputted to the console and calculates the area using Pi.
@@ -66,6 +68,8 @@ Each of the following Java files below have come from learning Java using the In
 **ShowRuntimeErrors.java** - Code will not run due to runtime errors, which will show up in the compiler.
 
 **SimpleIfDemo.java** - Code demo using IF statements.
+
+**SubtractionQuiz.java** - User given two random numbers and asked for the answer. Response informing if answer is correct or incorrect.
 
 **Welcome.java** - Prints Welcome to Java! to the console.
 
