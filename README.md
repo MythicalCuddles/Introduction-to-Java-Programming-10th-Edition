@@ -53,6 +53,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **ComputeLoan.java** - Works out monthly payment and total payment of entered loan amount.
 
+**ComputeTax.java** - Works out the tax amount from an entered amount and status.
+
 **DisplayTime.java** - Converts an integer into time value. (E.g., 100 = 1 minute, 40 seconds.)
 
 **FehrenheitToCelsius.java** - Converts Fehrenheit to Celsius.
@@ -70,6 +72,8 @@ Each of the following Java files below have come from learning Java using the In
 **SimpleIfDemo.java** - Code demo using IF statements.
 
 **SubtractionQuiz.java** - User given two random numbers and asked for the answer. Response informing if answer is correct or incorrect.
+
+**TestBooleanOperators.java** - Informs the user if a number is divisible by 2 and 3 - Testing the booleans.
 
 **Welcome.java** - Prints Welcome to Java! to the console.
 
