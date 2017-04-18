@@ -59,6 +59,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **FehrenheitToCelsius.java** - Converts Fehrenheit to Celsius.
 
+**LeapYear.java** - Checks to see if the entered year is/was a leap year.
+
 **SalesTax.java** - Works out sales tax.
 
 **ScannerObject.java** - Using scanner object to take in different variables and values.
