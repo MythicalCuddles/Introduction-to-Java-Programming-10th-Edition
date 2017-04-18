@@ -37,6 +37,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **AdditionQuiz.java** - Generates two numbers and asks for the answer. If the answer is correct, true is returned, otherwise false is returned.
 
+**ChineseZodiac.java** - Program to find out the Chinese Zodiac sign for a given year.
+
 **ComputeAndInterpretBMI.java** - Works out the BMI from the entered height and weight.
 
 **ComputeArea.java** - Computes the area using Pi.
