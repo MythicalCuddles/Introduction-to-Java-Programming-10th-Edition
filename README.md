@@ -67,6 +67,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **Lottery.java** - Generate number and check guess.
 
+**OrderTwoCities.java** - Program prompts the user to enter two cities and displays them in alphabetical order.
+
 **SalesTax.java** - Works out sales tax.
 
 **ScannerObject.java** - Using scanner object to take in different variables and values.
