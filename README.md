@@ -41,6 +41,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **ComputeAndInterpretBMI.java** - Works out the BMI from the entered height and weight.
 
+**ComputeAngles.java** - User enters the x and y coordinates of the three corner points in a triangle and then it displays the three angles.
+
 **ComputeArea.java** - Computes the area using Pi.
 
 **ComputeAreaWithConsoleInput.java** - Computes the area inputted to the console and calculates the area using Pi.
