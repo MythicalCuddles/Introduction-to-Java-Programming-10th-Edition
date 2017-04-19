@@ -61,7 +61,7 @@ Each of the following Java files below have come from learning Java using the In
 
 **DisplayTime.java** - Converts an integer into time value. (E.g., 100 = 1 minute, 40 seconds.)
 
-**FehrenheitToCelsius.java** - Converts Fehrenheit to Celsius.
+**FahrenheitToCelsius.java** - Converts Fahrenheit to Celsius.
 
 **GuessBirthday.java** - Guesses the birthday of the user by answering a couple of questions.
 

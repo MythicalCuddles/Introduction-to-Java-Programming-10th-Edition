@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Melissa on 14/04/2017.
  */
-public class FehrenheitToCelsius {
+public class FahrenheitToCelsius {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
