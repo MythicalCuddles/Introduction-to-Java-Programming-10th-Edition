@@ -65,6 +65,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **GuessBirthday.java** - Guesses the birthday of the user by answering a couple of questions.
 
+**HexDigit2Dec.java** - Converts a hex digit to a decimal value.
+
 **LeapYear.java** - Checks to see if the entered year is/was a leap year.
 
 **Lottery.java** - Generate number and check guess.
