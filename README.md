@@ -63,6 +63,8 @@ Each of the following Java files below have come from learning Java using the In
 
 **FehrenheitToCelsius.java** - Converts Fehrenheit to Celsius.
 
+**GuessBirthday.java** - Guesses the birthday of the user by answering a couple of questions.
+
 **LeapYear.java** - Checks to see if the entered year is/was a leap year.
 
 **Lottery.java** - Generate number and check guess.
