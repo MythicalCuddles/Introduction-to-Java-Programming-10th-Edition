@@ -2,7 +2,7 @@ package Chapter_01;
 
 /**
  * Introduction to Java Programming 10th Edition by Y Daniel Liang
- * Chapter 1 Exercise 1:
+ * Chapter 1 Exercise 1
  *      (Display three messages) Write a program that displays
  *      Welcome to Java, Welcome to Computer Science, and Programming is fun.
  *
